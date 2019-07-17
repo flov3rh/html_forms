@@ -98,19 +98,18 @@ p { margin-top: 7px;
   background-color:
 }
 
-/*
 .center_text {
   display: flex;
   align-items: center;
   flex-direction: column;
-}*/
+}
+
+.bottom {
+  width: 100%;
+}
 
 .width {
   width: 33.3333%;
-}
-
-.footer {
-
 }
 
 .center_inputs input {
@@ -136,4 +135,8 @@ p { margin-top: 7px;
   color: white;
   font-size: 20px;
   font-family: arial;
+}
+
+#standard_call {
+  text-align: left;
 }
