@@ -20,9 +20,14 @@ body {
 }
 
 h2 {
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 30px;
   margin: 20px;
+}
+
+label {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: arial;
 }
 
 /* Classes */
@@ -73,7 +78,7 @@ h2 {
 }
 
 .footer {
-  margin-top: 65%;
+  margin-top: 4.6%;
   text-align: center;
   width: 100%;
 }
@@ -83,4 +88,25 @@ h2 {
   font-size: 10px;
   padding-top: 15px;
   padding-bottom: 15px;
+  background-color: rgb(236,238,241);
+}
+
+.center_inputs {
+  padding-left: 19%;
+  padding-top: 25px;
+}
+
+.center_inputs input {
+  width: 300px;
+  height: 23px;
+}
+
+
+
+#submit_button {
+  background-color: blue;
+  height: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
 }
