@@ -20,8 +20,9 @@ body {
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
+  margin: 20px;
 }
 
 /* Classes */
@@ -47,6 +48,13 @@ h2 {
 
 .form {
   background-color: white;
+  height: 500px;
+  border: solid 0.5px lightgray;
+
+}
+
+.form * {
+  display: block;
 }
 
 .block {
@@ -58,4 +66,21 @@ h2 {
   display: flex;
   align-items: center;
   flex-direction: column;
+}
+
+.width {
+  width: 25%;
+}
+
+.footer {
+  margin-top: 65%;
+  text-align: center;
+  width: 100%;
+}
+
+.footer span {
+  border: solid 0.5px lightgray;
+  font-size: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
