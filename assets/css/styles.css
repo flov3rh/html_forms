@@ -51,12 +51,6 @@ footer {
   padding-bottom: 15px;
   font-family: "agenci fb";
   flex-direction: column;
-  margin-left: 300px;
-}
-
-footer ul {
-  text-align: center;
-  margin: 10px;
 }
 
 footer ul li {
