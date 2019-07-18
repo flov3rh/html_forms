@@ -32,6 +32,7 @@ label {
   font-size: 15px;
   font-family: arial;
   margin-bottom: 10px;
+  color: #404040;
 }
 
 p {
@@ -117,8 +118,11 @@ p { margin-top: 7px;}
 
 .center_inputs input {
   width: 300px;
-  height: 23px;
+  height: 34px;
   margin-top: 10px;
+  border: 1px solid #C1C5C8;
+  border-radius: 3px;
+  font-size: 15px;
 }
 
 .center_form {
