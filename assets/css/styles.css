@@ -157,6 +157,7 @@ p { margin-top: 7px;}
 
 #submit_button {
   background-color: blue;
+  width: 100%;
   height: 50px;
   color: white;
   font-size: 20px;
