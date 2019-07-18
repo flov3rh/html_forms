@@ -21,8 +21,9 @@ body {
 }
 
 h2 {
-  font-size: 30px;
-  margin: 20px;
+  font-size: 24px;
+  font-weight: 400;
+  color: #4C4C4C;
 }
 
 label {
@@ -51,7 +52,7 @@ footer {
   display: flex;
   width: 50%;
   margin-top: 80px;
-  padding-bottom: 15px;
+  padding-bottom: 25px;
   font-family: "agenci fb";
   flex-direction: column;
 }
@@ -93,7 +94,7 @@ p { margin-top: 7px;}
 
 .form {
   background-color: white;
-  height: 600px;
+  height: 620px;
   border: solid 0.5px lightgray;
 }
 
@@ -108,7 +109,7 @@ p { margin-top: 7px;}
 }
 
 .width {
-  width: 28%;
+  width: 375px;
 }
 
 .center_inputs input {
@@ -134,6 +135,8 @@ p { margin-top: 7px;}
   font-size: 15px;
   margin-bottom: 3px;
 }
+
+.reduce { width: 75%;}
 
 .link { color: #0077C5;}
 
@@ -162,4 +165,10 @@ p { margin-top: 7px;}
 #standard_call {
   text-align: left;
   font-size: 12px;
+}
+
+#terms {
+  margin-bottom: 50px;
+  font-style: italic;
+  color: #757575;
 }
