@@ -67,7 +67,11 @@ p { margin-top: 7px;}
 .button {
   padding: 0;
   margin-left: 10px;
+  margin-right: 5px;
+  margin-top: 5px;
   background-color: rgb(0,119,197);
+  border-color: transparent;
+  border-radius: 5px;
 }
 
 .top_right {
@@ -126,6 +130,11 @@ p { margin-top: 7px;}
 
 .inline {
   display: inline;
+}
+
+.header_message {
+  font-size: 15px;
+  margin-bottom: 3px;
 }
 
 /* id */
