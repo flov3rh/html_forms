@@ -95,11 +95,6 @@ p { margin-top: 7px;}
   display: block;
 }
 
-.block {
-  display: block;
-  background-color:
-}
-
 .center_text {
   display: flex;
   align-items: center;
@@ -150,4 +145,11 @@ p { margin-top: 7px;}
 
 #standard_call {
   text-align: left;
+  font-size: 12px;
+}
+
+#submit_button {
+  background-color: #0077C5;
+  border-radius: 7px;
+  border-color: transparent;
 }
