@@ -13,9 +13,10 @@ q:before, q:after { content:''; }
 
 /*END OF RESET CSS*/
 
+* {  font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;}
+
 body {
   background-color: rgb(236,238,241);
-  font-family: verdana;
   font-size: 12px;
 }
 
@@ -43,6 +44,8 @@ span {
   text-align: center;
   width: 100%;
 }
+
+a {  text-decoration: none;}
 
 footer {
   display: flex;
