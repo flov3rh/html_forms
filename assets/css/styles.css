@@ -98,7 +98,7 @@ p { margin-top: 7px;}
 
 .form {
   background-color: white;
-  height: 640px;
+  height: 700px;
   border: solid 0.5px lightgray;
 }
 
@@ -110,6 +110,7 @@ p { margin-top: 7px;}
   display: flex;
   align-items: center;
   flex-direction: column;
+  padding-bottom: 15px;
 }
 
 .width {
@@ -179,7 +180,6 @@ p { margin-top: 7px;}
 }
 
 #terms {
-  margin-bottom: 50px;
   font-style: italic;
   color: #757575;
 }
