@@ -8,8 +8,8 @@ This is the second project of the Main HTML/CSS curriculum at [Microverse](https
 
 #### Screenshots
 
-* ![alt Not found](assets/screenshots/Screenshot_1.png)
-* ![alt Not found](assets/screenshots/Screenshot_2.png)
+ ![alt Not found](assets/screenshots/Screenshot_1.png)
+ ![alt Not found](assets/screenshots/Screenshot_2.png)
 
 
 #### Authors
