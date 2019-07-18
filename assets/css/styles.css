@@ -27,8 +27,8 @@ h2 {
 
 label {
   font-size: 15px;
-  font-weight: bold;
   font-family: arial;
+  margin-bottom: 10px;
 }
 
 p {
@@ -65,7 +65,7 @@ p { margin-top: 7px;}
 /* Classes */
 
 .button {
-  
+
   margin-left: 10px;
   margin-right: 5px;
   margin-top: 5px;
@@ -138,6 +138,10 @@ p { margin-top: 7px;}
 }
 
 /* id */
+
+#Intuit_account {
+  color: #505050;
+}
 
 #test {
   display: flex;
