@@ -177,6 +177,7 @@ p { margin-top: 7px;}
   font-size: 12px;
   background-color: white;
   border-color: white;
+  padding-bottom: 0px;
 }
 
 #terms {
